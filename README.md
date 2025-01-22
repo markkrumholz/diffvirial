@@ -6,7 +6,7 @@ This repository contains the code and most of the data required to reproduce the
 What's included -- code
 -----------------------
 
-This repository contains five Python routines. The with names of the form `plot_*.py` are plotting routines to produce the figures in the paper. Specifically:
+This repository contains five Python routines. The files with names of the form `plot_*.py` are plotting routines to produce the figures in the paper. Specifically:
 
 * `plot_polytropes.py` produces figures 1 and 2, which show virial diagrams computed for polytropes
 * `plot_avir_sim.py` produces figures 3 and 4, which show an example contour on a simulation and virial diagrams derived from that contour anlaysis
